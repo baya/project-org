@@ -12,7 +12,7 @@
 ** DONE 用户创建场景
 ** DONE 用户编辑场景描述，场景名
 ** DONE Index页面
-** 用户主页
+** DONE 用户主页
 ** 分页
 ** 实现layout功能
 ** 主色彩yellow
