@@ -1,4 +1,4 @@
-* Sceneo
+* Scene
 ** DONE 路由系统， get(path, state)形式
 ** DONE 在每个活动后面显示增加，修改，删除三个icon
 ** DONE 用户删除活动
@@ -16,8 +16,9 @@
 ** DONE 实现layout功能
 ** DONE 主色彩dun
 ** DONE 修复各类bug   
-** 预防外部脚本注入
-** 将项目部署到heroku
+** DONE 我创建场景
+** DONE 预防外部脚本注入
+** TODO 将项目部署到heroku
 ** 后台管理
 ** 创建应用自带的Guest用户
 ** 项目安全评估
