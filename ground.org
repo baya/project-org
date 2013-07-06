@@ -2,3 +2,4 @@
 ** DONE 支持'/'路径
 ** DONE 模板方法和content type方法分离
 ** TODO 更方便的方法生成内容，比如ContentHaml('scene/index', layouts: ['lay1', 'lay2'])
+** 默认情况下escape_html
