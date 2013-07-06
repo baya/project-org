@@ -1,4 +1,4 @@
-* Sceneo
+* Scene
 ** DONE 路由系统， get(path, state)形式
 ** DONE 在每个活动后面显示增加，修改，删除三个icon
 ** DONE 用户删除活动
