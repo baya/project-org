@@ -18,9 +18,18 @@
 ** DONE 修复各类bug   
 ** DONE 我创建场景
 ** DONE 预防外部脚本注入
-** TODO 将项目部署到heroku
+** DONE bug: 用unicorn部署时，session丢失 
+** DONE 配置开发，测试，部署三种sqlite数据库
+** DONE rake db:migrate
+** DONE 类似于rails的log
+** TODO 配置开发，测试，部署三种pg数据库
 ** 后台管理
-** 创建应用自带的Guest用户
-** 项目安全评估
-** 根据路由加载中间件
+** 配置开发，测试，部署三种环境
+** fix bug
 ** 分页
+** 将项目部署到heroku
+** 创建应用自带的Guest用户
+** 根据路由加载中间件
+** 项目安全评估
+
+
