@@ -13,3 +13,4 @@ Ground.env #=> 'development' or 'test', ...
 ** 支持sprocket
 ** 默认情况下escape_html
 ** 支持多线程
+** 支持日志过滤掉秘密等敏感数据
