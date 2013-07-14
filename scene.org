@@ -22,14 +22,7 @@
 ** DONE 配置开发，测试，部署三种sqlite数据库
 ** DONE rake db:migrate
 ** DONE 类似于rails的log
-** TODO 配置开发，测试，部署三种pg数据库
-** 后台管理
-** 配置开发，测试，部署三种环境
+** DONE 配置开发，测试，部署三种pg数据库
 ** fix bug
-** 分页
-** 将项目部署到heroku
-** 创建应用自带的Guest用户
-** 根据路由加载中间件
-** 项目安全评估
 
 
