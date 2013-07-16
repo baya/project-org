@@ -1,5 +1,16 @@
 * Ground
 ** DONE 支持'/'路径
 ** DONE 模板方法和content type方法分离
-** TODO 更方便的方法生成内容，比如ContentHaml('scene/index', layouts: ['lay1', 'lay2'])
+** 更方便的方法生成内容，比如ContentHaml('scene/index', layouts: ['lay1', 'lay2'])
+** DONE 支持Ground全局配置的机制
+Ground do
+  set :env, ENV['RACK_ENV']
+end
+Ground.env #=> 'development' or 'test', ...
+
+** 支持console
+** DONE 类似于Rails的log功能
+** 支持sprocket
 ** 默认情况下escape_html
+** 支持多线程
+** 支持日志过滤掉秘密等敏感数据
