@@ -14,3 +14,4 @@ Ground.env #=> 'development' or 'test', ...
 ** 默认情况下escape_html
 ** 支持多线程
 ** 支持日志过滤掉秘密等敏感数据
+** 根据query参数，映射到对应的state
